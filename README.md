@@ -110,12 +110,12 @@ For step-by-step implementation — including:
 ├── README.md                          ← Entry point
 └── docs/
     ├── README.md                      ← Series overview and navigation
-    ├── Part 1 - Why Monitor Wazuh with Zabbix.md
-    ├── Part 2 - Designing Effective Monitoring for Wazuh.md
-    ├── Part 3 - Building Your First Zabbix Checks.md
-    ├── Part 4 - From Metrics to Action.md
-    ├── Part 5 - Operating and Maintaining Monitoring.md
-    ├── Part 6 - From Monitoring to Trust.md
+    ├── Part-01-Why-Monitor-Wazuh-with-Zabbix.md
+    ├── Part-02-Designing-Effective-Monitoring-for-Wazuh.md
+    ├── Part-03-Building-Your-First-Zabbix-Checks.md
+    ├── Part-04-From-Metrics-to-Action.md
+    ├── Part-05-Operating-and-Maintaining-Monitoring.md
+    ├── Part-06-From-Monitoring-to-Trust.md
     └── Companion-Reference.md
 ```
 
