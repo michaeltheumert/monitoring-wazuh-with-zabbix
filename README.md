@@ -15,8 +15,8 @@ A practical, production-ready guide to ensuring the **reliability of your securi
 
 | Platform | Role |
 |---|---|
-| **Wazuh** | Threat detection, log analysis, security visibility |
-| **Zabbix** | Infrastructure monitoring, availability, platform health |
+| **[Wazuh](https://wazuh.com/)** | Threat detection, log analysis, security visibility |
+| **[Zabbix](https://www.zabbix.com/)** | Infrastructure monitoring, availability, platform health |
 
 > **Without Zabbix, Wazuh can fail silently.**  
 > The real risk is not an attack — it is losing the ability to detect one.
