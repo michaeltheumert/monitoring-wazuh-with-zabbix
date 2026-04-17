@@ -112,7 +112,7 @@ flowchart LR
 
 - **Wazuh** analyses logs and detects threats
 - **Zabbix** monitors system health and service availability
-- **Zabbix** ensures that Wazuh continues to function correctly
+- **Zabbix** monitors Wazuh's services and alerts on failures
 
 Together, they create a layered model:
 
