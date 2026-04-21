@@ -202,7 +202,11 @@ Let's walk through a real monitoring design decision.
 
 **Why this works:**
 
-Every alert Wazuh generates is written to this file. If the modification timestamp stops advancing, something in the processing pipeline has failed - regardless of whether any service has crashed.
+Every alert Wazuh generates is written to this file. The modification timestamp can therefore be used as a liveness indicator for the alerting pipeline.
+
+If it stops advancing for longer than the expected alert interval of your environment, this should be treated as a strong anomaly signal - potentially indicating issues in data ingestion, rule processing, or forwarding.
+
+Short periods without updates can be normal, depending on thresholds and data sources.
 
 **Monitoring logic:**
 
