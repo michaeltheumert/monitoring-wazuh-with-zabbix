@@ -93,6 +93,8 @@ Unless otherwise stated, examples assume:
 - Zabbix agent installed on the Wazuh host
 - Zabbix server reachable from the monitored host
 
+This series was written and tested against Wazuh 4.14.x and Zabbix 7.4.9.
+
 ---
 
 ## About SECaaS.IT
