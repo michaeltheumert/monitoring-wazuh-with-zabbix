@@ -127,6 +127,8 @@ This repository represents a **production-tested approach** based on real-world 
 
 It is maintained and extended over time as practices evolve.
 
+Validated against Wazuh 4.14.x and Zabbix 7.4.9.
+
 ---
 
 ## About SECaaS.IT
