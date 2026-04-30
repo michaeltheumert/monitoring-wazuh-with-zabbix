@@ -17,6 +17,8 @@ Use them together:
 
 > **Scope:** Single-node Wazuh deployment as baseline. Multi-node and distributed extensions are noted where they differ. For full architectural context on distributed environments, see [Part 6](./Part-6_From-Monitoring-to-Trust.md).
 
+> Validated against Wazuh 4.14.x and Zabbix 7.4.9.
+
 ---
 
 ## Prerequisites
