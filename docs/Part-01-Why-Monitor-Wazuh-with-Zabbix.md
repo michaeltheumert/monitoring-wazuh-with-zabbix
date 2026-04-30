@@ -20,6 +20,8 @@ But even the most advanced security platform has one fundamental requirement:
 
 > **It must always be running, processing data, and receiving events.**
 
+This series was written and tested against Wazuh 4.14.x and Zabbix 7.4.9.
+
 ---
 
 ## Why This Matters
